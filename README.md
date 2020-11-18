@@ -1,5 +1,3 @@
-Downgrade any xx30 series ThinkPad to the latest [1vyrain compatible](https://github.com/gch1p/thinkpad-bios-software-flashing-guide#bios-versions) BIOS version.
-
 # Usage
 
 Go into your BIOS setup. Navigate to **Security -> UEFI BIOS Update Option**. Set *Flash BIOS Updating by End-Users* to Enabled, and *Secure RollBack Prevention* to Disabled. 
