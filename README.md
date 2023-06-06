@@ -1,3 +1,12 @@
+# Thinkpad XX30 DownDrag BIOS
+
+
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Thinkpad-XX30-DownDrag-BIOS/" alt = "Visitors-Counter"/>
+</body>
+
+
+
 # Usage
 
 Run `downgrade.bat` (NOT as Administrator - WinFlash64 should request admin on its own). The system will reboot and flash the BIOS region on your device. Voila! You're ready to run 1vyrain.
